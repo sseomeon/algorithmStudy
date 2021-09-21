@@ -1,6 +1,6 @@
 package programmers;
 
-class Solution {
+class 월간코드3_없는숫자더하기 {
     public int solution(int[] numbers) {
         int answer = 0;
         int[] arrIdx = new int[9];
