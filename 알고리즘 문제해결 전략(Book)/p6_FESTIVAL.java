@@ -33,7 +33,7 @@ public class p6_FESTIVAL {
             }
             // 최종 최솟값을 result배열에 추가
             System.out.print(">> answer : ");
-            System.out.println(String.format("%.8f",dMin))
+            System.out.println(String.format("%.8f",dMin));
         }
 
         sc.close();
